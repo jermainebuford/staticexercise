@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.exe
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.deps.json
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.dll
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\bin\Debug\netcoreapp3.1\staticexercise.pdb
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.dll
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.pdb
+C:\Users\jay\Desktop\csharp27\staticexercise\staticexercise\obj\Debug\netcoreapp3.1\staticexercise.genruntimeconfig.cache
